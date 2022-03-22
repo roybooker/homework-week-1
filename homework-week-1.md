@@ -18,9 +18,8 @@
 
 ### **Bamboo** The platform launched in 2019, but really only started really growing its user base nine months ago quickly growing more than 11,000 active investors in the past nine months, who have invested over $9 million in Bitcoin, Ethereum and precious metals *(ref 2)*. With this growth using Acquisition Metrics and Activation Metrics this shows substancel growth. *(ref 6)*. Since there are no direct competitiors  I looked at Raiz's full year results for financial year 20-21 and their active customer growth was 87% for this period but over the last 5 years this is averaged at 45% which is similar for **bamboo** ###
 
-<figure class = "video_container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EmtkU_Ebq2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+![Image](./Images/portfolio_bamboo.png)
+
 
 ## References ##
 ### 1 DR KATE RAYNES-GOLDIE. 3/5/2018. [title] (https://particle.scitech.org.au/tech/cryptocurrency-for-the-rest-of-us/) ###
