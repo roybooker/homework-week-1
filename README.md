@@ -14,7 +14,7 @@
  ### **Bamboo** the investment app as stated in their mission before is for the "rest of us". So for people who don't have a large sum of money to invest it provides an opportunity to enter both the Crypto and precious metals markets **Bamboo** says it has grown to more than 11,000 active investors in the past nine months, who have invested over $9 million in Bitcoin, Ethereum and precious metals *(ref 2)*. ###
  
  
-### **Bamboo** app is the Crypto version of micro investing platforms. The app utilises the power of https://github.com/roybooker/homework-week-1.gitdollar cost averaging. This is investing small amounts of money frequently. This strategy is proven to be better than trying to “time the market”. **Bamboo** is the only app of its kind in Australia that enables Crypto micro investing. It also utilises the power of round-up technology to then invest in Crypto. ###
+### **Bamboo** app is the Crypto version of micro investing platforms. The app utilises the power of cost averaging. This is investing small amounts of money frequently. This strategy is proven to be better than trying to “time the market”. **Bamboo** is the only app of its kind in Australia that enables Crypto micro investing. It also utilises the power of round-up technology to then invest in Crypto. ###
  
 
 ![Image](./Images/portfolio_bamboo.png)
@@ -28,6 +28,8 @@
  
  
 ### **Bamboo** The platform launched in 2019, but really only started really growing its user base nine months ago, quickly growing more than 11,000 active investors in the past nine months, who have invested over $9 million in Bitcoin, Ethereum and precious metals *(ref 2)*. With this growth using Acquisition Metrics and Activation Metrics this shows substantial growth. *(ref 6)*. Since there are no direct competitors  I looked at Raiz's full year results for financial year 20-21 and their active customer growth was 87% for this period but over the last 5 years this is averaged at 45% which is similar for **Bamboo** ###
+
+
  
 ### Where **Bamboo** may improve its platform to add different crypto coins allowing users to diversify their portfolios more. This does bring about more risk but if this is the only way people are investing in crypto they may like to diversify their portfolio. This may require greater level of software development to add in other variables and more server investment as is more computing power to process more data. ###
 
