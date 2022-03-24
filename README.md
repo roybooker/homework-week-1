@@ -29,7 +29,6 @@
  
 ### **Bamboo** The platform launched in 2019, but really only started really growing its user base nine months ago, quickly growing more than 11,000 active investors in the past nine months, who have invested over $9 million in Bitcoin, Ethereum and precious metals *(ref 2)*. With this growth using Acquisition Metrics and Activation Metrics this shows substantial growth. *(ref 6)*. Since there are no direct competitors  I looked at Raiz's full year results for financial year 20-21 and their active customer growth was 87% for this period but over the last 5 years this is averaged at 45% which is similar for **Bamboo** ###
 
-
  
 ### Where **Bamboo** may improve its platform to add different crypto coins allowing users to diversify their portfolios more. This does bring about more risk but if this is the only way people are investing in crypto they may like to diversify their portfolio. This may require greater level of software development to add in other variables and more server investment as is more computing power to process more data. ###
 
@@ -41,7 +40,7 @@
 ### 1 DR KATE RAYNES-GOLDIE. 3/5/2018. [Scitech] (https://particle.scitech.org.au/tech/cryptocurrency-for-the-rest-of-us/) ###
 ### 2 Derek Rose. 26/08/2021. [StockHead] (https://stockhead.com.au/cryptocurrency/crypto-microinvesting-platform-bamboo-reaches-11000-users-over-5-8m-aum/) ###
 ### 3 Bamboo Privacy policy. viewed 23/2/2022. [Bamboo] (https://www.getbamboo.io/legal/privacy-policy/)
-### 4 Federal Deposit Insurance Corporation. viewed 23/3/2022. [title] (https://www.fdic.gov/) ### 
-### 5 Saving.com.au viewed 23/2/2022. [title] (https://www.savings.com.au/savings-accounts/who-offers-micro-investing-apps-in-australia) ###
-### 6 Amit Levi. yahoofinance. 13/6/2019. [title] (https://finance.yahoo.com/news/fintech-analytics-top-7-metrics-182104952.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD11O777FeAfFq677iflNaOFxCscX3pj6CFhRSaapU04bCbd_Jw2WsNHXATPlxvU2Lc-a5V5mirnq7X7hSjTFhIfRxHoJsjb2QMqz3DL32b1CYwLH7XgfwNXoBWYP1QYRNhnK8siSN6UPkZ9sS4dMcA_mLywBpjPJzdgsyrmUpNI) ###
+### 4 Federal Deposit Insurance Corporation. viewed 23/3/2022. [FDIC] (https://www.fdic.gov/) ### 
+### 5 Saving.com.au viewed 23/2/2022. [Savings Australia] (https://www.savings.com.au/savings-accounts/who-offers-micro-investing-apps-in-australia) ###
+### 6 Amit Levi. yahoofinance. 13/6/2019. [yahoo finance] (https://finance.yahoo.com/news/fintech-analytics-top-7-metrics-182104952.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD11O777FeAfFq677iflNaOFxCscX3pj6CFhRSaapU04bCbd_Jw2WsNHXATPlxvU2Lc-a5V5mirnq7X7hSjTFhIfRxHoJsjb2QMqz3DL32b1CYwLH7XgfwNXoBWYP1QYRNhnK8siSN6UPkZ9sS4dMcA_mLywBpjPJzdgsyrmUpNI) ###
 
